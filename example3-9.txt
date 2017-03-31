@@ -1,0 +1,1 @@
+db.diary.remove({ dates: { $ne: '12' }})

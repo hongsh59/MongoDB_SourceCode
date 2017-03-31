@@ -1,0 +1,1 @@
+db.products.createIndex( { "item": 1, "stock": 1 } )

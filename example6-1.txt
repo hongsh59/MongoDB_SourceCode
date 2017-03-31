@@ -1,0 +1,2 @@
+use products
+db.changeUserPassword("customUser", "1234wyz")

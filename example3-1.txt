@@ -1,0 +1,1 @@
+db.users.insert( { name: "zoe", age: 56, status: "D"})

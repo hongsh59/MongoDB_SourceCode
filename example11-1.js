@@ -1,0 +1,1 @@
+db.collection('grades').findOne(query, callback);

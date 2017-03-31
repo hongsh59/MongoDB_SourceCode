@@ -1,0 +1,1 @@
+db.grades.find({$or :[{score :{$lte:50}},{score :{$gte:90}}])); 

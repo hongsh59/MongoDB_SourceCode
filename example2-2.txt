@@ -1,0 +1,1 @@
+db.fruit.insert({"name":"apple", "color":"red", "shape":"round"})

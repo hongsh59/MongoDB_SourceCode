@@ -1,0 +1,1 @@
+db.grades.find( { type : 'quiz' , score : 50 }, { score: 1, _id: 0} )

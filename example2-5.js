@@ -1,0 +1,1 @@
+db.grades.find({ score : { $gte : 50 , $lte : 60 } } );

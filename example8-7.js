@@ -1,0 +1,1 @@
+db.inventory.createIndex( { "stuff.company": -1 } );

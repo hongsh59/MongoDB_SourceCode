@@ -1,0 +1,1 @@
+db.friends.createIndex({"name": 1, "age": 1});

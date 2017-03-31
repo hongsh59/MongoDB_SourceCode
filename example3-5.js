@@ -1,0 +1,1 @@
+db.diary.find( { type: { $in: [ 'date', 'time' ] } } )

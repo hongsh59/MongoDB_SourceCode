@@ -1,0 +1,1 @@
+db.users.find( { group : { $all : [ "dance" , "korean" ] }, device : { $in : [ "Labtop" , "PC" ] } } )

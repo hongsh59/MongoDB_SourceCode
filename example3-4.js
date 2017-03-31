@@ -1,0 +1,1 @@
+db.users.remove( { status: "J" } )

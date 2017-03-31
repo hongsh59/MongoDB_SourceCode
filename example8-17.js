@@ -1,0 +1,1 @@
+db.places.find({location:{$near:{$geometry:{type:"Point",coordinates:[126.584063, 37.335887]},$maxDistance:10000}}})  

@@ -1,0 +1,1 @@
+db.users.update({ age: { $gt: 30,}}, { $set: { status: "A"}}, { multi: true }) 

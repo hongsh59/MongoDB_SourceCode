@@ -1,0 +1,1 @@
+db.map.find({"gps3":{"$near":[56,70]},"dest":"cafe"})

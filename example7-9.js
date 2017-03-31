@@ -1,0 +1,1 @@
+db.<collection>.aggregate([{$match:{<field>:{$gt:20}}}])
